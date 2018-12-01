@@ -74,6 +74,7 @@ Windows XP 的版本我已经不再维护了，但是通过一些键盘宏，如
 
 2017.9.14
 
+[下载问七五笔](https://github.com/imgtec/windows-7-wubi/archive/master.zip)。
 
 ## Welcome to GitHub Pages
 
