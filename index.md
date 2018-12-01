@@ -1,4 +1,4 @@
-## 问七五笔
+## 问七五笔 [下载地址](https://github.com/imgtec/windows-7-wubi/archive/master.zip)
 
 ```
 这一个五笔是在我刚买电脑的时候，由于我不喜欢安装版本输入法，因为安装版的输入
